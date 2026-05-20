@@ -1,0 +1,28 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# Uploads / temp
+uploads/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keys / secrets
+*.pem
+*.key
+private_key*
